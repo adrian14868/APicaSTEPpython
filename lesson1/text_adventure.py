@@ -11,7 +11,7 @@ if answer == "yes":
     print("--Yoda? I haven't heard from him in years...")
     print(" ")
     print(" ")
-    print("--Since he died years ago you lier")
+    print("--Since he died years ago you liar")
     print(" ")
     print(" ")
     print("*-He zaps you with his wand and you die*")
